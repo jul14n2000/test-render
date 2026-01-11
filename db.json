@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "bd16",
+      "content": "ultima nota",
+      "important": false
+    },
+    {
+      "id": "4cbe",
+      "content": "esta nota está guardada en el servidor",
+      "important": true
+    },
+    {
+      "id": "bc02",
+      "content": "nota nueva",
+      "important": true
+    },
+    {
+      "id": "dbc1",
+      "content": "hola soy una nota nueva",
+      "important": false
+    }
+  ]
+}
